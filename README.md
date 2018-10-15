@@ -1,1 +1,2 @@
-# pirple-node-master-class-hw-1
+# pirple-node-master-class
+# Work for HW1 is at branch "HW1"
